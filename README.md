@@ -15,10 +15,10 @@ We welcome contributions and collaborations! If you have a project that aligns w
 ## Featured Supported Projects  
 Below is a list of external projects that we actively support, as previously described.  
 
-- **[CACAO Playbook Knowledge Management System]([https://github.com/example/project1](https://github.com/Orestistsira/cacao-knowledge-base))** – An open source implementation of a CACAO Playbook Knowledge Management System, which enables easy storage, retrieval, execution and overall lifecycle management of CACAO v2.0 cybersecurity playbooks.  
+- **[CACAO Playbook Knowledge Management System](https://github.com/Orestistsira/cacao-knowledge-base)** – An open source implementation of a CACAO Playbook Knowledge Management System, which enables easy storage, retrieval, execution and overall lifecycle management of CACAO v2.0 cybersecurity playbooks.  
 
 ## Licensing  
 Each project within this section operates under its own **individual licensing scheme**, which must be followed. Please refer to each repository's **LICENSE** file for specific terms.  
 
 ## Disclaimer  
-All code provided here is offered **as is**, without any guarantees of correctness, security, or fitness for a particular purpose. **[Company Name]** does not commit to maintaining, updating, or providing support for these projects. Use at your own risk.  
+All code provided here is offered **as is**, without any guarantees of correctness, security, or fitness for a particular purpose. Automaton Technologies Ltd does not commit to maintaining, updating, or providing support for these projects. Use at your own risk.  
