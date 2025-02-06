@@ -1,6 +1,6 @@
 # Supported Projects  
 
-This section showcases projects that **Automaton Technologies Ltd**__ actively supports through funding, collaboration, technical contributions, mentorship, and other forms of assistance.
+This section showcases projects that **Automaton Technologies Ltd** actively supports through funding, collaboration, technical contributions, mentorship, and other forms of assistance.
 These projects align with our mission to promote innovation, enhance interoperability, and contribute to the broader cybersecurity and open-source communities, and we encourage adoption, collaboration, and contributions from the wider community.  
 
 We welcome contributions and collaborations! If you have a project that aligns with our mission, and you would like our support, feel free to reach out (contact_at_automaton-technologies.eu).  
