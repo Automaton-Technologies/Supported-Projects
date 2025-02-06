@@ -13,7 +13,7 @@ These projects align with our mission to promote innovation, enhance interoperab
 We welcome contributions and collaborations! If you have a project that aligns with our mission, and you would like our support, feel free to reach out (contact_at_automaton-technologies.eu).  
 
 ## Featured Supported Projects  
-Below is a list of external projects that we actively support, as previously described.  
+Please find below a list of external projects that we have actively supported, as previously described: 
 
 - **[CACAO Playbook Knowledge Management System](https://github.com/Orestistsira/cacao-knowledge-base)** – An open source implementation of a CACAO Playbook Knowledge Management System, which enables easy storage, retrieval, execution and overall lifecycle management of CACAO v2.0 cybersecurity playbooks. This was implemented in the context of the postgraduate thesis of Mr. Orestis Tsirakis, at the School of Electrical and Computer Engineering, Aristotle University of Thessaloniki, under the supervision of Prof. Ioannis Papaefstathiou, while the conceptualisation, design & validation of the tool was supported by Automaton Technologies Ltd.
 
