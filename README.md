@@ -16,6 +16,7 @@ We welcome contributions and collaborations! If you have a project that aligns w
 Please find below a list of external projects that we have actively supported, as previously described: 
 
 - **[CACAO Playbook Knowledge Management System](https://github.com/Orestistsira/cacao-knowledge-base)** – An open source implementation of a CACAO Playbook Knowledge Management System, which enables easy storage, retrieval, execution and overall lifecycle management of CACAO v2.0 cybersecurity playbooks. This was implemented in the context of the postgraduate thesis of Mr. Orestis Tsirakis, at the School of Electrical and Computer Engineering, Aristotle University of Thessaloniki, under the supervision of Prof. Ioannis Papaefstathiou, while the conceptualisation, design & validation of the tool was supported by Automaton Technologies Ltd.
+- **[CACAO ROASTER](https://github.com/opencybersecurityalliance/cacao-roaster)** – CACAO Roaster is a sub-project of the Open Cybersecurity Alliance. It is a web application for generating, parsing and validating, manipulating, and visualizing CACAO v2.0 playbooks. Automaton Technologies Ltd has been supporting the CACAO Roaster project (providing feedback, troubleshooting support, etc.) since release v1.3.0.
 
 ## Licensing  
 Each project within this section operates under its own **individual licensing scheme**, which must be followed. Please refer to each repository's **LICENSE** file for specific terms.  
